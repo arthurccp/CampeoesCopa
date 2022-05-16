@@ -1,3 +1,3 @@
-Lista Paises que disputaram a copa do Mundo
+# JSON manipulation
 
-O app consome um arquivo json e lista em uma tableView dinâmica todos os paises que disputaram a copa do mundo, acompanhado detalhes como o resultado final da disputa, podendo consultar também jogos anteriores, semifinais...
+resources used: Manipulação de arquivos Json com tablevieww
